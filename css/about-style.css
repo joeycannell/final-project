@@ -126,3 +126,10 @@ input[placeholder] {
   ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
 color: white;
 }
+.col-sm-8{
+  float: right;
+}
+.body-text{
+  padding-top: 30px;
+  font-size: 15px;
+}
